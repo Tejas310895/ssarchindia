@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-lg fixed-top bg-white">
+    <div class="container-fluid">
+        <a class="navbar-brand ps-4" href="#">
+            <img src="http://ssarchindia.com/wp-content/uploads/2020/05/logos-1024x335.jpg" alt="Bootstrap" width="100">
+        </a>
+        <button class="navbar-toggler border border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+            <ul class="navbar-nav mb-2 mb-lg-0 pe-4">
+                <li class="nav-item px-3">
+                    <a class="nav-link active navigation" aria-current="page" href=".">HOME</a>
+                </li>
+                <li class="nav-item px-3">
+                    <a class="nav-link active" aria-current="page" href="know_us">KNOW US</a>
+                </li>
+                <li class="nav-item px-3">
+                    <a class="nav-link active" aria-current="page" href="projects">PROJECTS</a>
+                </li>
+                <li class="nav-item px-3">
+                    <a class="nav-link active" aria-current="page" href="contact_us">REACH US</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
