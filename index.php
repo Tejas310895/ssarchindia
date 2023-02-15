@@ -1,6 +1,6 @@
  <?php include("includes/header.php") ?>
+ <?php include("includes/navbar.php") ?>
  <div class="container-fluid px-0">
-     <?php include("includes/navbar.php") ?>
      <header>
          <div class="owl-carousel owl-theme">
              <?php

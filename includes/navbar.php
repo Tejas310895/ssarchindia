@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg fixed-top bg-white">
+<nav class="navbar navbar-expand-lg sticky-top bg-white">
     <div class="container-fluid">
         <a class="navbar-brand ps-4" href=".">
             <img src="assets/images/logo.jpg" alt="Bootstrap" width="100">

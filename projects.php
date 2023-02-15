@@ -1,6 +1,6 @@
 <?php include("includes/header.php") ?>
+<?php include("includes/navbar.php") ?>
 <div class="container-fluid px-0">
-    <?php include("includes/navbar.php") ?>
     <div class="container mt-5 pt-5">
     </div>
     <div class="container pt-2">

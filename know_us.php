@@ -1,6 +1,6 @@
 <?php include("includes/header.php") ?>
+<?php include("includes/navbar.php") ?>
 <div class="container-fluid px-0">
-    <?php include("includes/navbar.php") ?>
     <div class="container-fluid mt-5 ku_head p-5">
         <div class="row p-lg-5">
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 p-5 bg-white">
