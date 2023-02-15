@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg fixed-top bg-white">
     <div class="container-fluid">
-        <a class="navbar-brand ps-4" href="#">
+        <a class="navbar-brand ps-4" href=".">
             <img src="assets/images/logo.jpg" alt="Bootstrap" width="100">
         </a>
         <button class="navbar-toggler border border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
