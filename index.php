@@ -77,7 +77,7 @@
  </div>
  <div class="container-fluid p-lg-5">
      <div class="row p-lg-5">
-         <h1 class="text-center hww_head mb-lg-5 mt-4">
+         <h1 class="text-center hww_head mb-5 mt-4">
              HOW WE WORK ?
          </h1>
          <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 p-lg-5">
