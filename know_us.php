@@ -34,7 +34,7 @@
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
-                                        <img src="http://ssarchindia.com/wp-content/uploads/2020/05/SANDEEP-1-1.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                        <img src="assets/images/SANDEEP.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Sandeep Pawar</h5>
@@ -48,7 +48,7 @@
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
-                                        <img src="http://ssarchindia.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-16-at-1.27.57-PM-274x300.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                        <img src="assets/images/bhupendra.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Mr. Bhupendra Parmar</h5>
@@ -62,7 +62,7 @@
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
-                                        <img src="http://ssarchindia.com/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-20-at-20.19.35-768x751.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                        <img src="assets/images/naidu.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Srianumanth Naidu</h5>
@@ -76,7 +76,7 @@
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
-                                        <img src="http://ssarchindia.com/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-14-at-5.14.30-PM.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                        <img src="assets/images/nikita.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Nikita Dhadankar</h5>
@@ -90,7 +90,7 @@
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
-                                        <img src="http://ssarchindia.com/wp-content/uploads/2020/05/pp-3-300x300.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                        <img src="assets/images/jagdish.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Mr. Jagdish Pawar</h5>
