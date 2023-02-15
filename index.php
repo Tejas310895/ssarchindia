@@ -34,7 +34,7 @@
      <div class="container">
          <div class="row learts-mb-n30 mb-3">
              <div class="col-md-6 col-12 align-self-center learts-mb-30">
-                 <div class="about-us3" data-aos="fade-right">
+                 <div class="about-us3">
                      <span class="sub-title mb-0 mt-5">
                          About our company
                      </span>
@@ -69,14 +69,14 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-6 col-12 text-center learts-mb-30" data-aos="fade-down-left">
+             <div class="col-md-6 col-12 text-center learts-mb-30">
                  <img src="assets/images/about_img.png" alt="" class="img-fluid">
              </div>
          </div>
      </div>
  </div>
  <div class="container-fluid p-lg-5">
-     <div class="row p-lg-5" data-aos="fade-right">
+     <div class="row p-lg-5">
          <h1 class="text-center hww_head mb-lg-5 mt-4">
              HOW WE WORK ?
          </h1>
@@ -104,7 +104,7 @@
  </div>
 
  <!--Carousel Gallery-->
- <div class="carousel-gallery py-2 mb-2" data-aos="fade-down-right">
+ <div class="carousel-gallery py-2 mb-2">
      <h1 class=" text-center pfl_head pb-5">OUR PORTFOLIO</h1>
      <div class="swiper-container">
          <div class="swiper-wrapper">
@@ -167,7 +167,7 @@
      </div>
  </div>
  <!--#Carousel Gallery-->
- <div class="container" data-aos="fade-up">
+ <div class="container">
      <h1 class=" text-center pfl_head py-3">GROUP FIRMS</h1>
      <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
          <div class="carousel-inner" role="listbox">

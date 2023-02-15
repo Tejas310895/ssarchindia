@@ -16,7 +16,7 @@
             </h1>
         </div>
     </div>
-    <div class="container px-4 pt-0" data-aos="fade-up">
+    <div class="container px-4 pt-0">
         <section class="portfolio section">
             <div class="container">
                 <div class="filters">

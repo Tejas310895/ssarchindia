@@ -65,12 +65,6 @@
 <script src="assets/float-panel/float-panel.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="assets/js/script.js"></script>
-<script>
-    AOS.init({
-        easing: 'ease-out-back',
-        duration: 3000
-    });
-</script>
 </body>
 
 </html>

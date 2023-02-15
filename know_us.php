@@ -30,7 +30,7 @@
                     </div>
                     <!-- cards -->
                     <div class="row">
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
@@ -44,7 +44,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
@@ -58,7 +58,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4" data-aos="fade-up">
+                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
                             <div class="card shadow-lg border-danger-subtle border-0">
                                 <div class="card-body">
                                     <div class="user-picture">
