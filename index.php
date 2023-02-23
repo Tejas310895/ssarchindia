@@ -1,6 +1,5 @@
  <?php include("includes/header.php") ?>
- <?php include("includes/navbar.php") ?>
- <div class="container-fluid px-0">
+ <div class="container-fluid px-0" data-snap-point>
      <header>
          <div class="owl-carousel owl-theme">
              <?php
@@ -29,48 +28,87 @@
          </div>
      </header>
  </div>
- <!-- About Section Start -->
+ <?php include("includes/navbar.php") ?>
+ <!-- Design Section Start -->
  <div class="section section-padding">
-     <div class="container">
-         <div class="row learts-mb-n30 mb-3">
-             <div class="col-md-6 col-12 align-self-center learts-mb-30">
-                 <div class="about-us3">
-                     <span class="sub-title mb-0 mt-5">
-                         About our company
-                     </span>
-                     <hr class="mt-1 mb-2 w-50" style="color:#FF0000;" />
-                     <h2 class="title">How we deliver the<br> happiness</h2>
-                     <div class="desc mb-0">
-                         <p>
-                             SSARCH INDIA known for Architectural and Interior Design consultancy , Project Management services , Turnkey interior solution and Modular furniture for creating outstanding inspirational spaces and environment
-                         </p>
+     <div class="row learts-mb-n30 mb-3 mt-5">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <h1 class="odg_head text-center">
+                 OUR DESIGN GALLERY
+             </h1>
+             <p class="odg_desc text-center">
+                 Explore our inpirational designs that make each part of your home a dream come true
+             </p>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <div class="container">
+                 <div class="row">
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
                      </div>
-                     <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
-                         <div class="carousel-inner">
-                             <div class="carousel-item active" data-bs-interval="2000">
-                                 <h5 class="card-title vpv_cards_head">VALUES</h5><br>
-                                 <p class="card-text vpv_cards_desc">
-                                     Our Values Are Positive Innovation, Exceed Expectations, Respect, Supportive, Balance, Teamwork, Passionate, Open Communication, Honesty. We Believe Ideas Can Change The World. We Do And Say Things From The Heart And Wish Well To All Those Around Us.
-                                 </p>
-                             </div>
-                             <div class="carousel-item" data-bs-interval="2000">
-                                 <h5 class="card-title vpv_cards_head">PRINCIPALS</h5><br>
-                                 <p class="card-text vpv_cards_desc">
-                                     Our Firm Is Built On The Pillars Of Dedication, Persistence, Efforts And Hard Work. “Do Whatever It Takes” Attitude In All Our Team Members So The Job Gets Done Right To Highest The Standards And Within The Committed Timeline. We Believe Teamwork Enables Ordinary People To Achieve Extra-Ordinary Things.
-                                 </p>
-                             </div>
-                             <div class="carousel-item" data-bs-interval="2000">
-                                 <h5 class="card-title vpv_cards_head">VISION</h5><br>
-                                 <p class="card-text vpv_cards_desc">
-                                     To Be One Of The Most Distinguished, Honest And Ethical Interior, Architecture And Design Company. We More Towards Our Goal Of Being A Top-Class Design Company. We Believe High-Quality, Cost-Effective, Project On Schedule By Employing And Supporting Motivated, Flexible And Focused Team.
-                                 </p>
-                             </div>
-                         </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/259580/pexels-photo-259580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
                      </div>
                  </div>
+
              </div>
-             <div class="col-md-6 col-12 text-center learts-mb-30">
-                 <img src="assets/images/about_img.png" alt="" class="img-fluid">
+         </div>
+     </div>
+ </div>
+ <!-- Modular Section Start -->
+ <div class="section section-padding">
+     <div class="row learts-mb-n30 mb-3 mt-5">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <h1 class="odg_head text-center">
+                 OUR MODULAR WORKS
+             </h1>
+             <p class="odg_desc text-center">
+                 Checkout our Modular kitchen designs
+             </p>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <div class="container">
+                 <div class="row">
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/6969864/pexels-photo-6969864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="https://images.pexels.com/photos/10827358/pexels-photo-10827358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+                     </div>
+                 </div>
+
+             </div>
+         </div>
+     </div>
+ </div>
+ <!-- Modular Section Start -->
+ <div class="section section-padding">
+     <div class="row learts-mb-n30 mb-3 mt-5">
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <h1 class="pwt_head text-center mb-lg-5 mb-sm-0">
+                 OUR PROJECT WALK THROUGH
+             </h1>
+         </div>
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+             <div class="container">
+                 <video width="100%" controls autoplay>
+                     <source src="http://ssarchindia.com/wp-content/uploads/2020/10/Walkthrough_Sakhar-Bhawan-Inauguration-1-1-1-1-1.mp4" type="video/mp4">
+                 </video>
              </div>
          </div>
      </div>

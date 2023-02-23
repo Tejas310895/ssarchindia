@@ -12,6 +12,9 @@
                     <a class="nav-link active navigation" aria-current="page" href=".">HOME</a>
                 </li>
                 <li class="nav-item px-3">
+                    <a class="nav-link active navigation" aria-current="page" href="about_us">ABOUT US</a>
+                </li>
+                <li class="nav-item px-3">
                     <a class="nav-link active" aria-current="page" href="know_us">KNOW US</a>
                 </li>
                 <li class="nav-item px-3">

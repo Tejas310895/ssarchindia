@@ -1,55 +1,32 @@
-<div id="myFooterSection">
-    <footer class="section bg-footer">
-        <div class="container" style="position: relative;z-index:5">
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="">
-                        <h6 class="footer-heading text-uppercase text-white">Information</h6>
-                        <ul class="list-unstyled footer-link mt-4">
-                            <li><a href="index">Home</a></li>
-                            <li><a href="know_us">Know Us</a></li>
-                            <li><a href="projects">Projects</a></li>
-                            <li><a href="contact_us">Reach Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-
-                </div>
-                <div class="col-lg-2">
-
-                </div>
-                <div class="col-lg-4">
-                    <div class="">
-                        <h6 class="footer-heading text-uppercase text-white">Contact Us</h6>
-                        <p class="contact-info mt-4">Contact us if need help withanything</p>
-                        <p class="contact-info">+01 123-456-7890</p>
-                        <div class="mt-5">
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a href="#"><i class="fab facebook footer-social-icon fa-facebook-f"></i></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="fab twitter footer-social-icon fa-twitter"></i></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="fab google footer-social-icon fa-google"></i></i></a></li>
-                                <li class="list-inline-item"><a href="#"><i class="fab apple footer-social-icon fa-apple"></i></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+<footer>
+    <div class="footer">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="text-center pl-0">
+                    <li class="d-inline-block mx-3"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li class="d-inline-block mx-3"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li class="d-inline-block mx-3"><a href="#"><i class="fa fa-youtube"></i></a></li>
+                    <li class="d-inline-block mx-3"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                </ul>
             </div>
         </div>
-        <div class="text-center mt-5">
-            <p class="footer-alt mb-0 f-14">2020 © SSARCHINDIA, All Rights Reserved</p>
+
+        <div class="row">
+            <ul class="text-center">
+                <li class="d-inline-block mx-3"><a href="#">About us</a></li>
+                <li class="d-inline-block mx-3"><a href="#">Know Us</a></li>
+                <li class="d-inline-block mx-3"><a href="#">Projects</a></li>
+                <li class="d-inline-block mx-3"><a href="#">Reach Us</a></li>
+            </ul>
         </div>
-        <svg viewbox="0 0 1440 328" width="100vw">
-            <defs>
-                <clipPath id="wave" clipPathUnits="objectBoundingBox" transform="scale(0.00069444444, 0.00304878048)">
-                    <path d="M504.452 27.7002C163.193 -42.9551 25.9595 38.071 0 87.4161V328H1440V27.7002C1270.34 57.14 845.711 98.3556 504.452 27.7002Z" />
-                </clipPath>
-            </defs>
-        </svg>
-    </footer>
-</div>
 
-
+        <div class="row">
+            <h6 class="text-center mb-0">
+                SSARCH Copyright © 2023 - All rights reserved
+            </h6>
+        </div>
+    </div>
+</footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
