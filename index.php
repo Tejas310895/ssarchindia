@@ -107,7 +107,7 @@
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
              <div class="container">
                  <video width="100%" controls autoplay>
-                     <source src="http://ssarchindia.com/wp-content/uploads/2020/10/Walkthrough_Sakhar-Bhawan-Inauguration-1-1-1-1-1.mp4" type="video/mp4">
+                     <source src="assets/videos/vid1.mp4" type="video/mp4">
                  </video>
              </div>
          </div>
