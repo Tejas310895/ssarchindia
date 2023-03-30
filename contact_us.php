@@ -60,7 +60,7 @@ if (isset($_POST['form_submit'])) {
         echo "<script>alert('Your enquiry is submitted successfully')</script>";
         echo "<script>window.open('.','_self')</script>";
     } else {
-        echo "<script>alert('Failed to submit enquiry! Try again'mysqli_error($this->db_link))</script>";
+        echo "<script>alert('Failed to submit enquiry! Try again'))</script>";
         echo "<script>window.open('contact_us','_self')</script>";
     }
 }
