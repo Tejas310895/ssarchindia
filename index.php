@@ -73,9 +73,6 @@
              <h1 class="odg_head text-center">
                  BEDROOM DESIGNS
              </h1>
-             <p class="odg_desc text-center">
-                 Explore our inpirational designs that make each part of your home a dream come true
-             </p>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
              <div class="container">
