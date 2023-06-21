@@ -22,9 +22,10 @@
                         <li class="active" data-filter="*">All</li>
                         <li data-filter=".MDLZ">MONDELEZ</li>
                         <li data-filter=".MDLZ_JOY">MONDELEZ JOY HOUSE</li>
-                        <li data-filter=".MG_CHE">MG DIGITAL CHENNAI</li>
+                        <li data-filter=".MG_CHE">MG CHENNAI</li>
                         <li data-filter=".MG_PRA">MG PRABHADEVI</li>
                         <li data-filter=".RHP_PART">RHP PARTNERS</li>
+                        <li data-filter=".GMC_H">GMC HEAD OFFICE</li>
                     </ul>
                 </div>
 
@@ -250,6 +251,34 @@
                         <div class="col-sm-4 all RHP_PART">
                             <div class="item">
                                 <img src="assets/images/projects/RHP8.jpeg" alt="Lorem Name">
+                                <!-- <div class="p-inner">
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-sm-4 all GMC_H">
+                            <div class="item">
+                                <img src="assets/images/projects/GMC1.jpeg" alt="Lorem Name">
+                                <!-- <div class="p-inner">
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-sm-4 all GMC_H">
+                            <div class="item">
+                                <img src="assets/images/projects/GMC2.jpeg" alt="Lorem Name">
+                                <!-- <div class="p-inner">
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-sm-4 all GMC_H">
+                            <div class="item">
+                                <img src="assets/images/projects/GMC3.jpeg" alt="Lorem Name">
+                                <!-- <div class="p-inner">
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="col-sm-4 all GMC_H">
+                            <div class="item">
+                                <img src="assets/images/projects/GMC4.jpeg" alt="Lorem Name">
                                 <!-- <div class="p-inner">
                                 </div> -->
                             </div>

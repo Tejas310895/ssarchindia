@@ -44,22 +44,22 @@
              <div class="container">
                  <div class="row">
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr1.jpeg" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv1.jpeg" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr2.jpeg" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv2.jpeg" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr3.jpeg" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv3.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr4.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv4.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr5.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv5.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/lvr6.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/lv6.png" alt="">
                      </div>
                  </div>
 
@@ -78,22 +78,31 @@
              <div class="container">
                  <div class="row">
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/br1.jpeg" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br1.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/br2.png" alt="">
-                     </div>
-                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/br3.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br2.jpeg" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
                          <img class="img-thumbnail border border-0" src="assets/images/renders/br4.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/br5.jpeg" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br5.png" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br8.png" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br9.png" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
                          <img class="img-thumbnail border border-0" src="assets/images/renders/br6.jpeg" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br7.jpeg" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 mb-3">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/br3.jpeg" alt="">
                      </div>
                  </div>
 
@@ -109,20 +118,29 @@
                  OUR MODULAR WORKS
              </h1>
              <p class="odg_desc text-center">
-                 Checkout our Modular kitchen designs
+                 Checkout our Modular furniture designs
              </p>
          </div>
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
              <div class="container">
                  <div class="row">
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc1.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc1.jpeg" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc2.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc2.jpeg" alt="">
                      </div>
                      <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc3.png" alt="">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc4.jpeg" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc5.jpeg" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc6.jpeg" alt="">
+                     </div>
+                     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                         <img class="img-thumbnail border border-0" src="assets/images/renders/kc7.jpeg" alt="">
                      </div>
                  </div>
 
@@ -246,7 +264,7 @@
              <div class="carousel-item active">
                  <div class="card text-center border border-0">
                      <div class="card-header bg-transparent border border-0 p-0">
-                         <img src="https://yourdigilab.com/images/shares/upload/building-logo/6322c189460e5.png" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
+                         <img src="assets/images/m_logo.jpg" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
                      </div>
                      <div class="card-body border border-0">
                          <h5 class="card-title firm_head fw-normal">Ssarch India is Partnership register company established in year 2016 with all compliance which gives services like Architectural and Interior design services and Project management.</h5>
@@ -262,7 +280,7 @@
              <div class="carousel-item">
                  <div class="card text-center border border-0">
                      <div class="card-header bg-transparent border border-0 p-0">
-                         <img src="https://yourdigilab.com/images/shares/upload/building-logo/6322c189460e5.png" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
+                         <img src="assets/images/m_logo.jpg" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
                      </div>
                      <div class="card-body border border-0">
                          <h5 class="card-title firm_head fw-normal">Ssarch is Partnership company established in year 2003, which give services like turnkey project, modular furniture etc.</h5>
@@ -278,7 +296,7 @@
              <div class="carousel-item">
                  <div class="card text-center border border-0">
                      <div class="card-header bg-transparent border border-0 p-0">
-                         <img src="https://yourdigilab.com/images/shares/upload/building-logo/6322c189460e5.png" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
+                         <img src="assets/images/m_logo.jpg" class="d-block mx-auto img-responsive border border-0" alt="First slide" width="100vh">
                      </div>
                      <div class="card-body border border-0">
                          <h5 class="card-title firm_head fw-normal">Kokan Branch : Vastumitra and Associates is headed by Mr. Jagadish Pawar from Rajapur. This firm gives services like Bungalow design ,Temple design, Town planning work, Estimate and costing ,Municipal approval work and govt project.</h5>
