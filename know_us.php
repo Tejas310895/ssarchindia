@@ -66,22 +66,9 @@
                                     </div>
                                     <div class="user-content">
                                         <h5 class="text-capitalize user-name mb-3">Srianumanth Naidu</h5>
-                                        <p class=" text-capitalize text-muted small blockquote-footer text-danger-emphasis">Project management</p>
-                                        <p class="small text-muted mb-0 ot_desc">Srianumanth Naidu has 11 years of experience in Project management. He likes work with SS Arch India. He has completed a Diploma from Anna university and B. Tech in KSOU. He is an expert in MEP work. He had experience in Hospital projects, Residential projects, Commercial and Industrial projects.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb-4 pt-5 pb-4">
-                            <div class="card shadow-lg border-danger-subtle border-0">
-                                <div class="card-body">
-                                    <div class="user-picture">
-                                        <img src="assets/images/nikita.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
-                                    </div>
-                                    <div class="user-content">
-                                        <h5 class="text-capitalize user-name mb-3">Nikita Dhadankar</h5>
-                                        <p class=" text-capitalize text-muted small blockquote-footer text-danger-emphasis">Interior Designer</p>
-                                        <p class="small text-muted mb-0 ot_desc">Nikita Dhadankar did Diploma in Interior Design at Premlila Vithaldas Polytechnic SNDT in the year 2018. Her Professional style of designing is minimalistic. The idea “less is more” gives an open and cozy feel to space. I approach with methods that provide a durable and visually comfortable working and living environment.</p>
+                                        <p class=" text-capitalize text-muted small blockquote-footer text-danger-emphasis">Project Management Specialist</p>
+                                        <p class="small text-muted mb-0 ot_desc">With 15+ years of proven expertise, Srianumanth Naidu excels in leading complex projects across hospital, residential, commercial, and industrial sectors. A key contributor at SS Arch India, he brings deep knowledge in MEP systems and end-to-end project execution.
+                                        He holds a Diploma from Anna University and a B.Tech from KSOU, blending technical skill with strategic leadership.</p>
                                     </div>
                                 </div>
                             </div>
